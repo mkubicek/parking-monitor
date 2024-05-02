@@ -1,0 +1,6 @@
+.DS_Store
+.env
+data_labeled
+data_labeled_unconfirmed
+data_training
+logs
